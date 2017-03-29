@@ -1,0 +1,33 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+
+// COLORS
+$red: 					#bf1700;
+$blue: 					#cadbed;
+$card-bg: 				$blue ;
+$card-border-color: 	$card-bg;
+$display-color: 		$white;
+
+$btn-secondary-bg:		$red;
+$btn-secondary-color:	$white;
+
+// SIZES
+$card-border-width: 	10px;
+$border-width:			10px;
+
+$medium-height:			50px;
+
+
+// TEXT
+// text-size
+$title-size-sm:			25px;
+$title-size-md:			50px;
+$title-size-lg:			100px;
+
+$card-spacer-x: 		50px;
+$card-spacer-y: 		50px;
+
+$title-spacing:			50px;
+
